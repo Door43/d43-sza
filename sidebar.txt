@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sza:home|Door43 (sza)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sza|d43-sza repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sza/archive/master.zip|d43-sza.zip]]
+
+**Recent Changes**
+{{changes>ns = sza}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sza|Ethnologue data]]
+
